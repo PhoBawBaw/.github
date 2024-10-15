@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to 🍼PhoBawBaw🍼</h1>
 
 <p align="center">
-<img width=80% src="https://github.com/user-attachments/assets/68a8a389-f333-426b-8c11-43baa33a4e16">
+<img width=80% src="https://github.com/user-attachments/assets/7f650c2e-863e-4f0b-b388-7bf07096ebbb">
 </p>
 
 Team PhoBawBaw는 저출산 시대에 부모들이 아이를 키우는 데 있어 부담을 줄이고, 아기들이 더 행복한 세상을 만들기 위해 모였습니다. 저희가 개발한 아기 울음 소리 모니터링 시스템은 가정용 홈카메라 형태로 아기의 울음 상태를 실시간으로 모니터링할 수 있는 통합 솔루션입니다.
