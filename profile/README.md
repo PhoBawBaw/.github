@@ -16,9 +16,9 @@ Team PhoBawBaw는 저출산 시대에 부모들이 아이를 키우는 데 있�
 4. [중앙 서버](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/4.-%EC%A4%91%EC%95%99-%EC%84%9C%EB%B2%84)
 5. [웹앱](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/%EC%9A%B8%EC%9D%8C%EC%86%8C%EB%A6%AC-%EB%B6%84%EB%A5%98-%EB%AA%A8%EB%8D%B8)
 6. [울음소리 분류 모델](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/6.-%EC%9A%B8%EC%9D%8C%EC%86%8C%EB%A6%AC-%EB%B6%84%EB%A5%98-%EB%AA%A8%EB%8D%B8)
-7. [전체 실행 방법]()
-8. [기여 방법]()
-9. [라이선스]()
+7. [전체 실행 방법](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/7.-%EC%A0%84%EC%B2%B4-%EC%8B%A4%ED%96%89-%EB%B0%A9%EB%B2%95)
+8. [기여 방법](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/8.-%EA%B8%B0%EC%97%AC-%EB%B0%A9%EB%B2%95)
+9. [라이선스](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/9.-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4)
 
 ## Repositories
 - [IoT System](https://github.com/PhoBawBaw/Baby-Crying-Monitoring)
