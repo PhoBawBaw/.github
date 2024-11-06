@@ -10,24 +10,21 @@ Team PhoBawBaw는 저출산 시대에 부모들이 아이를 키우는 데 있�
 프로젝트 소개, 장비 구성, 프로젝트 재현을 위한 구성 및 실행 방법은 [WiKi 페이지](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki)를 확인해 주세요.
 
 ### 목차
-1. [프로젝트 소개](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/1.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C)
-2. [장비 구성](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/2.-%EC%9E%A5%EB%B9%84-%EA%B5%AC%EC%84%B1)
-3. [IoT 시스템](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/3.-IoT-%EC%8B%9C%EC%8A%A4%ED%85%9C)
-4. [중앙 서버](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/4.-%EC%A4%91%EC%95%99-%EC%84%9C%EB%B2%84)
-5. [웹앱](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/%EC%9A%B8%EC%9D%8C%EC%86%8C%EB%A6%AC-%EB%B6%84%EB%A5%98-%EB%AA%A8%EB%8D%B8)
-6. [울음소리 분류 모델](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/6.-%EC%9A%B8%EC%9D%8C%EC%86%8C%EB%A6%AC-%EB%B6%84%EB%A5%98-%EB%AA%A8%EB%8D%B8)
-7. [전체 실행 방법](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/7.-%EC%A0%84%EC%B2%B4-%EC%8B%A4%ED%96%89-%EB%B0%A9%EB%B2%95)
-8. [기여 방법](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/8.-%EA%B8%B0%EC%97%AC-%EB%B0%A9%EB%B2%95)
-9. [라이선스](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/9.-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4)
+1. [프로젝트 소개](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/01.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C)
+2. [장비 구성](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/02.-%EC%9E%A5%EB%B9%84-%EA%B5%AC%EC%84%B1)
+3. [IoT 시스템](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/03.-IoT-%EC%8B%9C%EC%8A%A4%ED%85%9C)
+4. [중앙 서버](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/04.-%EC%A4%91%EC%95%99-%EC%84%9C%EB%B2%84)
+5. [웹앱](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/05.-%EC%9B%B9%EC%95%B1)
+6. [울음소리 분류 모델](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/06.-%EC%9A%B8%EC%9D%8C%EC%86%8C%EB%A6%AC-%EB%B6%84%EB%A5%98-%EB%AA%A8%EB%8D%B8)
+7. [움직임 추적](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/07.-%EC%9B%80%EC%A7%81%EC%9E%84-%EC%B6%94%EC%A0%81)
+8. [전체 실행 방법](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/08.-%EC%A0%84%EC%B2%B4-%EC%8B%A4%ED%96%89-%EB%B0%A9%EB%B2%95)
+9. [기여 방법](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/09.-%EA%B8%B0%EC%97%AC-%EB%B0%A9%EB%B2%95)
+10. [라이선스](https://github.com/PhoBawBaw/Baby-Crying-Monitoring/wiki/10.-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4)
 
-## Repositories
-- [IoT System](https://github.com/PhoBawBaw/Baby-Crying-Monitoring)
-- [Model](https://github.com/PhoBawBaw/model)
-- [Web/App](https://github.com/PhoBawBaw/web_app)
-
-## 라이선스
-
-(TBD)
+## Repositories & License
+- [IoT System](https://github.com/PhoBawBaw/Baby-Crying-Monitoring): AGPL-3.0 license
+- [Model](https://github.com/PhoBawBaw/model): Apache-2.0 license
+- [Web/App](https://github.com/PhoBawBaw/web_app): Apache-2.0 license
 
 ---
 
