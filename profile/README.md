@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to 🍼PhoBawBaw🍼</h1>
 
 <p align="center">
-<img width=80% src="https://github.com/user-attachments/assets/d7fb68c9-4322-488a-bf9d-7d86ae242824">
+<img width=40% src="https://github.com/user-attachments/assets/d7fb68c9-4322-488a-bf9d-7d86ae242824">
 </p>
 
 
